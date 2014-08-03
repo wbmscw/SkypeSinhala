@@ -4,9 +4,9 @@
 Skype හි භාෂාව වෙනස් කරන්නේ මෙහෙමයි
 ----------------------------
  * මෙම වෙබ් අඩවියේ ඇති Download ZIP මත ක්ලික් කර එය බාගත කරගන්න.
- * එම zip ෆයිලය විහිදුවා ගන්න, එහි ෆයිල් දෙකක් අඩංගුවේ, ඒ Readme.me හා SL_SI.lang ලෙසය.
+ * එම zip ෆයිලය විහිදුවා ගන්න, එහි ෆයිල් දෙකක් අඩංගුවේ, ඒ Readme.me හා LK_SI.lang ලෙසය.
  * Skype විවෘත කර එහි Tools -> Change Language -> Load Skype Language file... තෝරන්න.
- * SL_SI.lang ෆයිලය තෝරන්න.
+ * LK_SI.lang ෆයිලය තෝරන්න.
  * දැන් Skype හි භාෂාව සිංහලෙන් වේ !
 
 How to change the language
@@ -16,3 +16,7 @@ How to change the language
  * Open Skype, go to Tools -> Change Language -> Load Skype Language file...
  * Select the downloaded SL_SI.lang file
  * Done !
+
+Contribute
+----------
+You can fork this project and send a pull request.
