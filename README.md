@@ -16,3 +16,7 @@ How to change the language
  * Open Skype, go to Tools -> Change Language -> Load Skype Language file...
  * Select the downloaded SL_SI.lang file
  * Done !
+ 
+How to contribute
+-----------------
+You can fork this, make changes to SL_SI.lang file and send a pull request.
